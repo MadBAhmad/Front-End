@@ -1,0 +1,79 @@
+body{
+    margin: o;
+    box-sizing: border-box;
+    background-color: #EDEDF0;
+
+}
+.card1{
+    width: 430px;
+    /* border:  solid lightgray; */
+    border-radius: 30px;
+    margin: 200px auto;
+    padding: 10px;
+    background-color: #ffffff;
+
+}
+.top-content{
+    text-align: center;
+    padding: 26px;
+}
+.brief-icon{
+        /* padding: 5px; */
+        display: flex;
+        margin-left: 10px;
+        align-items: center;
+
+        
+}
+
+.option-one{
+    display: flex;
+    justify-content: space-between;
+}
+
+.option-one img{
+    height: 30px;
+    padding: 12px;
+    
+}
+
+
+.brief-icon img{
+     width: 25px;
+}
+.bottom{
+    width: 430px;
+    height: 40px;
+    border: 1px solid lightgray;
+    background-color: lightgray;
+    border-radius: 10px;
+    padding-bottom: 12px;
+    margin-bottom: 10px;
+    
+}
+
+.bottom-content:hover{
+    width: 430px;
+    height: 40px;
+    border: 1px solid lightgray;
+    background-color: lightgray;
+    border-radius: 10px;
+    padding-bottom: 12px;
+    margin-bottom: 10px;
+}
+.footer-content{
+    text-align: center;
+    padding: 26px;
+    font-weight: 10;
+    color: rgb(160, 157, 157);
+}
+.btn{
+    width: 250px;
+    height: 50px;
+    padding: 10px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    background-color: #51DEFF;
+    border-radius: 10px;
+    border: none;
+}
